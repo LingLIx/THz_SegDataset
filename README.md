@@ -1,4 +1,4 @@
-# [An Active Terahertz Imaging Dataset for Concealed Multi-object Detection and Evaluation](https://lilingllff.github.io/THZ_DataSet/)
+# [An Active Terahertz Imaging Dataset for Concealed Multi-object Detection and Evaluation](https://lilingllff.github.io/)
 
 
 #### Todo
