@@ -26,9 +26,9 @@ THZ_dataset_seg_IMG
   ├── val
   └── test
 Download links:
-Google drive(https://drive.google.com/drive/folders/1A6LiyWAvRmKIJN5yXQZ3HxZVwNEFz8uV?usp=sharing)
-Baidu drive(https://pan.baidu.com/s/1MRPyeMtzCQRO5ydgX0rSHA)(Extraction code: x3od)
-NUAA drive(https://pan.nuaa.edu.cn/share/5cb047f309049ba7f68ab9e1e0)
+- [Google drive](https://drive.google.com/drive/folders/1A6LiyWAvRmKIJN5yXQZ3HxZVwNEFz8uV?usp=sharing)
+- [Baidu drive](https://pan.baidu.com/s/1MRPyeMtzCQRO5ydgX0rSHA)(Extraction code: x3od)
+- [NUAA drive](https://pan.nuaa.edu.cn/share/5cb047f309049ba7f68ab9e1e0)
 
 ---
 
