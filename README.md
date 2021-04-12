@@ -6,26 +6,29 @@ Concealed objects detection in Terahertz imaging is an urgent need for public se
 
 ## Dataset
 
-Dataset structure:
-THZ_dataset_det_VOC
-  ├── Annotations
-  │    ├── D_N_F1_CK_F_LA_WB_F_S_back_0907140917.xml
-  │    ├── D_N_F1_CK_F_LA_WB_F_S_front_0907140917.xml
-  │    ├── D_N_F1_CL_V_LA_LW_V_RA_back_0907141138.xml
-  │    ├── ...
-  │    └── T_P_M6_MD_F_LL_CK_F_C_WB_F_RT_front_0906154134.xml
-  └── JPEGImages
-      ├── D_N_F1_CK_F_LA_WB_F_S_back_0907140917.jpg
-      ├── D_N_F1_CK_F_LA_WB_F_S_front_0907140917.jpg
-      ├── D_N_F1_CL_V_LA_LW_V_RA_back_0907141138.jpg
-      ├── ...
-      └── T_P_M6_MD_F_LL_CK_F_C_WB_F_RT_front_0906154134.jpg
+### Dataset structure:
+```
+/THZ_dataset_det_VOC
+    /Annotations
+        /D_N_F1_CK_F_LA_WB_F_S_back_0907140917.xml
+        /D_N_F1_CK_F_LA_WB_F_S_front_0907140917.xml
+        /D_N_F1_CL_V_LA_LW_V_RA_back_0907141138.xml
+        /...
+        /T_P_M6_MD_F_LL_CK_F_C_WB_F_RT_front_0906154134.xml
+    /JPEGImages
+        /D_N_F1_CK_F_LA_WB_F_S_back_0907140917.jpg
+        /D_N_F1_CK_F_LA_WB_F_S_front_0907140917.jpg
+        /D_N_F1_CL_V_LA_LW_V_RA_back_0907141138.jpg
+        /...
+        /T_P_M6_MD_F_LL_CK_F_C_WB_F_RT_front_0906154134.jpg
+/THZ_dataset_seg_IMG
+    /train
+    /val
+    /test
+```
 
-THZ_dataset_seg_IMG
-  ├── train
-  ├── val
-  └── test
-Download links:
+      
+### Download links:
 - [Google drive](https://drive.google.com/drive/folders/1A6LiyWAvRmKIJN5yXQZ3HxZVwNEFz8uV?usp=sharing)
 - [Baidu drive](https://pan.baidu.com/s/1MRPyeMtzCQRO5ydgX0rSHA)(Extraction code: x3od)
 - [NUAA drive](https://pan.nuaa.edu.cn/share/5cb047f309049ba7f68ab9e1e0)
